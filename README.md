@@ -76,6 +76,7 @@ Evaluate performance
 Test prediction function
 
 🧩 **Future Scope**
+
 Multilingual classification with transformer models (e.g., mBERT, XLM-RoBERTa)
 
 Real-time deployment with APIs, stream processing, and cloud services
@@ -87,12 +88,15 @@ Sentiment and emotion detection for crisis severity assessment
 Continuous model improvement through user feedback loops
 
 🤝 **Contributing**
+
 Pull requests and suggestions are welcome! Feel free to fork this repo and improve it.
 
 📜 **License**
+
 This project is open-source and free to use under the MIT License.
 
 ✨ **Acknowledgements**
+
 Dataset: Kaggle - NLP with Disaster Tweets
 
 Developed as a part of an academic project to demonstrate practical applications of NLP and AI for disaster management.
