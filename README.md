@@ -50,9 +50,11 @@ Edit
 
 git clone https://github.com/yourusername/AI-Disaster-Tweet-Classifier.git
 cd AI-Disaster-Tweet-Classifier
+
 2️⃣ **Install required dependencies**
 
 pip install -r requirements.txt
+
 3️⃣ **Download dataset**
 
 Update your Kaggle API credentials and download the dataset using KaggleHub or place train_clean.csv in the data/ folder.
